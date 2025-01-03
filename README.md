@@ -1,4 +1,9 @@
+I'll update the README to include the artifact link:
+
 # TranscribeAI - Aplicativo de Transcrição de Áudio
+
+## Demonstração
+🔗 [Visualizar Demonstração do Aplicativo](https://claude.site/artifacts/a08c0ac3-12eb-4fcd-8ca5-a46129793361)
 
 ## Descrição
 TranscribeAI é uma aplicação de transcrição de áudio avançada desenvolvida em React, oferecendo recursos de ponta para transformar gravações de áudio em texto com alta precisão.
@@ -15,14 +20,6 @@ TranscribeAI é uma aplicação de transcrição de áudio avançada desenvolvid
 - Lucide React (ícones)
 - Tailwind CSS
 - Recharts (gráficos)
-
-## Funcionalidades
-- Gravação de áudio via microfone
-- Upload de arquivos de áudio
-- Simulação de transcrição
-- Design responsivo
-- Planos de precificação
-- Depoimentos de usuários
 
 ## Planos
 1. **Starter**: Gratuito
